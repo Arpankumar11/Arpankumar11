@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**Arpankumar11/Arpankumar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arpan Kumar 👋
 
-Here are some ideas to get you started:
+## About Me
+🎓 MBA in Banking & Finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Currently learning Data Analytics
+
+🐍 Learning Python, SQL, Pandas, NumPy, Power BI, and Excel
+
+📈 Interested in Data Analysis and Business Intelligence
+
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Data Visualization
+
+## Projects
+- 🚖 Ola Driver Attrition Analysis
+- 🚗 Car Dataset Exploratory Data Analysis (EDA)
+- 🛒 Black Friday Sales Analysis
+- 📊 SQL Case Study Solutions
+
+## Connect with Me
+- LinkedIn: (Add your LinkedIn link)
+- Email: (Add your email)
+
+⭐ Thanks for visiting my profile!

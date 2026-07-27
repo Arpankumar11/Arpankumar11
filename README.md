@@ -27,7 +27,7 @@
 - 📊 SQL Case Study Solutions
 
 ## Connect with Me
-- LinkedIn: (Add your LinkedIn link)
-- Email: (Add your email)
+- LinkedIn: (www.linkedin.com/in/arpan-kumar-4538a61b4)
+- Email: (Arpankumar687@gmail.com)
 
 ⭐ Thanks for visiting my profile!
